@@ -1,2 +1,2 @@
-# My-Libraray
+# My-Library
 VSC
